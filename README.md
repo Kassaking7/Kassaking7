@@ -6,7 +6,7 @@
   </div>
   
 <p align="center">
-  <samp>👋 Hello there. I'm Zhiyuan Wang, a Data Science Student @ University of Waterloo. Previously interned @ Huawei Tech Canada and Horizn.</samp><br/><br/>
+  <samp>👋 Hello there. I'm Zhiyuan Wang, a Computer Science Student @ University of Waterloo. Previously interned @ Huawei Tech Canada and Horizn.</samp><br/><br/>
   <br />
 </p>
   
