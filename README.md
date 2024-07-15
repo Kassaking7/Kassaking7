@@ -1,7 +1,7 @@
 ### Hi there 👋
   <div align="center">
     <a href="https://kassakingzyw.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Hope you have a good day!&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Welcome to my github page!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
   
